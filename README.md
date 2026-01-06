@@ -1,6 +1,7 @@
-# Welcome to your Lovable project
+# Welcome to your Expense Tracker  project
 
-## Project info
+## Project info:
+To run this project click on link below.
 
 **URL**: https://lovable.dev/projects/526c8ad7-3096-4dce-b173-11368b20d8ef
 
