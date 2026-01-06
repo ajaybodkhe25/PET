@@ -3,7 +3,7 @@
 ## Project info:
 To run this project click on link below.
 
-**URL**:https://lovable.dev/projects/aa52b05c-ffdb-4ef7-a4d7-54c47e67b63c
+**URL**:https://pocket-palace-97.lovable.app/
 
 ## How can I edit this code?
 
