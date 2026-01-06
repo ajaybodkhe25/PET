@@ -3,7 +3,7 @@
 ## Project info:
 To run this project click on link below.
 
-**URL**: https://lovable.dev/projects/526c8ad7-3096-4dce-b173-11368b20d8ef
+**URL**:https://lovable.dev/projects/aa52b05c-ffdb-4ef7-a4d7-54c47e67b63c
 
 ## How can I edit this code?
 
